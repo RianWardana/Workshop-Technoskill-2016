@@ -1,5 +1,7 @@
 # Workshop Techoskill 2016
 
+
+<br />
 ### Workshop Sesi 1 (Selasa, 01 Maret 2016)
 ##### File yang digunakan
 1. NyobaProgram.java
@@ -22,6 +24,8 @@
   5. ArrayList
 4. Latihan di http://codingbat.com
 
+
+<br />
 ### Workshop Sesi 2 (Rabu, 02 Maret 2016)
 ##### File yang digunakan
 1. HariDua.java
@@ -43,5 +47,19 @@
   * implements
 
 
-andifni@gmail.com
-s.id/bw
+<br/>
+### Workshop Sesi 3 (Senin, 07 Maret 2016)
+##### Material yang digunakan
+* Folder HelloWorld, salin ke direktori proyek Android Studio Anda  
+
+##### Materi
+* Instalasi Android Studio dan program-program dependensi lain
+* Pengenalan Android
+  * riwayat versi Android
+  * pengenalan pemrograman Android
+* Pemrograman Android dengan Android Studio
+
+<br/>
+### Anda punya pertanyaan?
+Hubungi andifni@gmail.com  
+Modul resmi pelatihan ada di [sini](https://drive.google.com/folderview?id=0B6eelPVjl_TTdW93Z0h0aUtTRk0)
