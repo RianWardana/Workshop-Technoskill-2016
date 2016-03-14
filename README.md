@@ -59,6 +59,12 @@
   * pengenalan pemrograman Android
 * Pemrograman Android dengan Android Studio
 
+
+<br/>
+### Workshop Sesi 4 (Senin, 14 Maret 2016)
+Sayang sekali saya berhalangan hadir pada sesi ini. 
+
+
 <br/>
 ### Anda punya pertanyaan?
 Hubungi andifni@gmail.com  
