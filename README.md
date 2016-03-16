@@ -66,6 +66,11 @@ Sayang sekali saya berhalangan hadir pada sesi ini.
 
 
 <br/>
+### Workshop Sesi 5 (Rabu, 16 Maret 2016)
+##### Materi
+* Melanjutkan aplikasi to-do-list pada sesi sebelumnya
+
+<br/>
 ### Anda punya pertanyaan?
 Hubungi andifni@gmail.com  
 Modul resmi pelatihan ada di [sini](https://drive.google.com/folderview?id=0B6eelPVjl_TTdW93Z0h0aUtTRk0)
